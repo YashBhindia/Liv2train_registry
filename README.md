@@ -52,7 +52,7 @@ Create a new training center.
 }
 ```
 
-**Request Body:**
+**Response:**
 ```json
 
 {
