@@ -77,7 +77,7 @@ Create a new training center.
 
 ```
 ## Create new training_centers By Postman! ==
-![Capture5](https://github.com/user-attachments/assets/09ac710a-d51b-4c29-88c0-1afcf2cff064)
+![diffapi1](https://github.com/user-attachments/assets/47a8c9ad-e7a9-4428-95d1-0f2a5954358b)
 
 ## GET /training-centers
 
@@ -88,11 +88,11 @@ Create a new training center.
   - course (optional): Filter by course offered.
 
 ### Filter by center name:
-![centerName](https://github.com/user-attachments/assets/b09ad343-84eb-4105-b209-f1fb0ef655ec)
+![centername1](https://github.com/user-attachments/assets/26293837-6e71-4a7e-9976-f704e0484cbb)
 ### Filter by course offered:
-![course](https://github.com/user-attachments/assets/70c37e0e-c0a3-4986-9104-2364672b10f4)
+![course1](https://github.com/user-attachments/assets/94128f60-1fd0-4fbb-80ad-dedabd367ba6)
 ### Get all centers:
-![all](https://github.com/user-attachments/assets/46e33261-b6d6-41a3-8a74-a5250b8839fc)
+![all1](https://github.com/user-attachments/assets/813355e2-142f-4499-aa8b-5a4e4bfbfb77)
 
 ## Validation
 - Mandatory fields are validated using annotations such as @NotBlank, @Size, @Email, and @Pattern..
