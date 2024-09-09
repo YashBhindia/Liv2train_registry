@@ -76,10 +76,10 @@ Create a new training center.
 }
 
 ```
-## Create new training_centers By Postman! ==
+## Create new training_centers By Postman(localhost:8080/api/training-centers/create) ==
 ![diffapi1](https://github.com/user-attachments/assets/47a8c9ad-e7a9-4428-95d1-0f2a5954358b)
 
-## GET /training-centers
+## GET /training-centers(localhost:8080/api/training-centers/gwtAll)
 
 - Retrieve a list of all training centers, with optional filtering.
 ### Query Parameters:
